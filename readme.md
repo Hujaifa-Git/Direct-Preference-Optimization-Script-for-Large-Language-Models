@@ -85,7 +85,7 @@ You can monitor your models training using tensorboard using this command,
 ```bash
 tensorboard --logdir <your_output_dir>
 ```
-To check my training log, put 'models/dpo_v2' instead of <your_output_dir> in the above command 
+To check my training log, put 'DPO_V3_models/dpo_v2/runs' instead of <your_output_dir> in the above command 
 
 ## Inference
 
